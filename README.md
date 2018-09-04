@@ -1,4 +1,4 @@
 # EmpiricalEvaluationOfDenseNet
 Seminar paper on "Empirical Evaluation of DenseNet"
 
-![DenseNet image](./image1.png)
+![DenseNet image](./images/image1.png)

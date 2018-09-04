@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: egpaper_final.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--empty journal in CIFAR10
+Warning--empty year in CIFAR10
+Warning--empty journal in cifar100
+Warning--empty year in cifar100
+You've used 16 entries,
+            2120 wiz_defined-function locations,
+            596 strings with 7490 characters,
+and the built_in function-call counts, 6489 in all, are:
+= -- 589
+> -- 460
+< -- 4
++ -- 180
+- -- 163
+* -- 498
+:= -- 1120
+add.period$ -- 48
+call.type$ -- 16
+change.case$ -- 127
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 224
+empty$ -- 401
+format.name$ -- 163
+if$ -- 1313
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 16
+newline$ -- 81
+num.names$ -- 34
+pop$ -- 136
+preamble$ -- 1
+purify$ -- 111
+quote$ -- 0
+skip$ -- 166
+stack$ -- 0
+substring$ -- 238
+swap$ -- 55
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 64
+warning$ -- 4
+while$ -- 46
+width$ -- 18
+write$ -- 173
+(There were 4 warnings)
